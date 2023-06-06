@@ -1,0 +1,18 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid eb3ba44d-0a61-427b-b2ef-10ac6db3b8be)
+
+  (paper "A4")
+
+  (title_block
+    (title "Jetson Orin Baseboard Storage Expansion")
+    (date "2023-06-06")
+    (rev "1.0.0")
+    (company "Antmicro Ltd")
+    (comment 1 "www.antmicro.com")
+  )
+
+  (lib_symbols
+  )
+
+)
