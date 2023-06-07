@@ -1,4 +1,4 @@
-2980792776004311
+2984165496295911
 antmicro-footprints
 685119134923
 WR-COM SMT Horizontal HDMI, 19 pins
@@ -3185,6 +3185,13 @@ DVI_Female_74320-9010
 32
 30
 antmicro-footprints
+D_0603_1608Metric
+DIODE SMD 0603
+DIODE SMD 0603
+0
+2
+2
+antmicro-footprints
 D_SMB
 Diode SMB (DO-214AA)
 Diode SMB (DO-214AA)
@@ -3307,6 +3314,13 @@ antmicro-footprints
 ERF8-040-XX.X-X-DV-XX
 Board to Board & Mezzanine Connectors 
 Board to Board & Mezzanine Connectors
+0
+80
+80
+antmicro-footprints
+ERM8-040-05.0_SAMTEC
+
+
 0
 80
 80
@@ -3885,6 +3899,13 @@ Headphone_Jack_6.35mm_SN49B12B
 3
 3
 antmicro-footprints
+Heatsink_960-31-18-S-AB-0
+
+
+0
+0
+0
+antmicro-footprints
 Hole
 
 
@@ -4217,13 +4238,6 @@ antmicro-footprints
 J_ERF8-040-05.0_SAMTEC
 Board to Board & Mezzanine Connectors 
 Board to Board & Mezzanine Connectors
-0
-80
-80
-antmicro-footprints
-J_ERM8-040-05.0_SAMTEC
-
-
 0
 80
 80
