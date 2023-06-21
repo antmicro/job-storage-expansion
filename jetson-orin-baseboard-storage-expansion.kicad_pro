@@ -417,9 +417,7 @@
           "PCIE2_TX0_N",
           "PCIE2_TX0_P",
           "PCIE2_TX1_N",
-          "PCIE2_TX1_P",
-          "PCIE3_CLK_N",
-          "PCIE3_CLK_P"
+          "PCIE2_TX1_P"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
