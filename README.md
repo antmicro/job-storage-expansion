@@ -4,7 +4,7 @@ Copyright (c) 2022-2023 [Antmicro](https://www.antmicro.com)
 
 [![image](https://img.shields.io/badge/View%20on-Antmicro%20Open%20Source%20Portal-332d37?style=flat-square)](https://opensource.antmicro.com/projects/)
 
-![](img/storage expansion board.png)
+![](img/storage-expansion-board.png)
 
 ## Overview
 
