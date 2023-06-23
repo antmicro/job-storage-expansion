@@ -2202,6 +2202,9 @@
     (path "/73e7794c-25e6-4d08-8054-2f71767fcb84/07e194ca-18d7-4954-914c-444b6344ac4d"
       (reference "#PWR032") (unit 1) (value "GND") (footprint "")
     )
+    (path "/73e7794c-25e6-4d08-8054-2f71767fcb84/8ad881b1-1166-4c23-bd8f-35f1baffdb47"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/cc2f3977-c157-49db-9d7c-b1273851c6f6/bcb57f41-e2ac-4fea-b0c8-3650b23589d2"
       (reference "A1") (unit 1) (value "Bus_M.2_1-2199230-6") (footprint "antmicro-footprints:Bus_M.2_Socket_Key_M_TE_1-2199230-6")
     )
