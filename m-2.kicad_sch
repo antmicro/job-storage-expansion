@@ -3653,7 +3653,7 @@
   )
 
   (symbol (lib_id "antmicroOscillators:Oscillator_SMD_32.768kHz_ECS_2520MV") (at 243.84 106.045 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 52110d04-c896-4ea2-933d-c8342649b19c)
     (property "Reference" "Y1" (id 0) (at 253.365 97.79 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
