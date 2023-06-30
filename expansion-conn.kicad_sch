@@ -3755,7 +3755,7 @@
   )
 
   (symbol (lib_id "antmicroMechanicalParts:oshw_logo") (at 372.11 247.65 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 492197fc-dd4b-4602-a70d-c3a683826604)
     (property "Reference" "N1" (id 0) (at 378.46 245.3575 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -3816,7 +3816,7 @@
   )
 
   (symbol (lib_id "antmicroMechanicalParts:PCB_Mount_Hole_2.9_5.5") (at 373.38 233.68 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 7dc21210-1972-41c2-9535-392563978297)
     (property "Reference" "MP1" (id 0) (at 375.92 232.4099 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -3951,7 +3951,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 189.23 180.34 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid af30a9ea-fcb9-4632-91a0-ec203da06174)
     (property "Reference" "TP2" (id 0) (at 191.77 177.1649 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -3981,7 +3981,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 132.715 158.75 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid c867a46f-48a9-46f5-9a0d-3e8a02cf98b1)
     (property "Reference" "TP1" (id 0) (at 134.239 155.5749 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -4027,7 +4027,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 285.75 163.068 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid d00bddbe-57d4-4e71-9f94-36600c3b752f)
     (property "Reference" "TP3" (id 0) (at 287.274 159.8929 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -4057,7 +4057,7 @@
   )
 
   (symbol (lib_id "antmicroMechanicalParts:PCB_Mount_Hole_2.9_5.5") (at 373.38 240.03 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d91e2dc5-8b57-451d-8a6a-4858f0d56b46)
     (property "Reference" "MP2" (id 0) (at 375.92 238.76 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))

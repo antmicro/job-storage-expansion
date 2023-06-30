@@ -4232,7 +4232,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 67.945 104.14 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 0b4fc671-dd9a-4494-8da5-6525672fd055)
     (property "Reference" "TP7" (id 0) (at 61.722 104.14 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -4302,7 +4302,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 67.945 114.3 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 1029b0de-ad1c-424a-a041-d8fe1ada918a)
     (property "Reference" "TP10" (id 0) (at 61.722 114.3 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -4617,7 +4617,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 67.945 121.92 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 36e1d246-8323-4e50-9c07-0eb8759b7f8e)
     (property "Reference" "TP13" (id 0) (at 61.722 121.92 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -4847,7 +4847,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 67.945 106.68 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 4bc46115-c956-4f42-a984-32ba6f370a00)
     (property "Reference" "TP8" (id 0) (at 61.722 106.68 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -5443,7 +5443,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 67.945 119.38 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 9927dc73-3f78-409f-8176-ac7da77899d3)
     (property "Reference" "TP12" (id 0) (at 61.722 119.38 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -5489,7 +5489,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 67.945 109.22 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a866e2d9-5141-40dd-af81-96b982f4d17e)
     (property "Reference" "TP9" (id 0) (at 61.722 109.22 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -5777,7 +5777,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 67.945 116.84 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid c5da72de-0dbc-4c84-847d-393ad620a359)
     (property "Reference" "TP11" (id 0) (at 61.722 116.84 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))

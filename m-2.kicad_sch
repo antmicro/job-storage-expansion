@@ -3745,7 +3745,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 140.335 79.375 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 7387ba8a-696a-45de-a874-18dd145a5488)
     (property "Reference" "TP6" (id 0) (at 145.923 79.3749 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -3806,7 +3806,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 140.335 76.835 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 7caafa9b-73b6-4540-a904-0e44301ddbf1)
     (property "Reference" "TP5" (id 0) (at 144.907 76.8349 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -3852,7 +3852,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 140.335 74.295 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 8762a144-67c3-4d94-9674-392faabfcdc7)
     (property "Reference" "TP4" (id 0) (at 144.907 74.2949 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
