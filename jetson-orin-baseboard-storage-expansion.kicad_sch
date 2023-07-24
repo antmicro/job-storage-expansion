@@ -2289,8 +2289,8 @@
     (path "/cc2f3977-c157-49db-9d7c-b1273851c6f6/baef32f0-3cf1-4826-b90b-347a4833ad89"
       (reference "H2") (unit 1) (value "Spacer_H2.5mm_9774025151") (footprint "antmicro-footprints:Spacer_SMD_M2.5_H2.5mm_Wurth_9774025151")
     )
-    (path "/c2682da0-b57d-4de0-867f-878a3b270db3/ae569b74-a58b-4ca4-b7cd-3e24727d49e3"
-      (reference "J1") (unit 1) (value "J_ERM8-040-XX.X-X-DV-XX_SAMTEC") (footprint "antmicro-footprints:ERM8-040-05.0_SAMTEC")
+    (path "/c2682da0-b57d-4de0-867f-878a3b270db3/0adb6365-d5bf-463a-b3c9-19a964398688"
+      (reference "J1") (unit 1) (value "J_ERM8-040-05.0-L-DV-L-K-TR_SAMTEC") (footprint "antmicro-footprints:ERM8-040-05.0_SAMTEC")
     )
     (path "/73e7794c-25e6-4d08-8054-2f71767fcb84/87883b49-676e-406c-aee3-379dc924f4f2"
       (reference "J2") (unit 1) (value "MicroSD_1140084168") (footprint "antmicro-footprints:MicroSD_Amphenol_1140084168")
