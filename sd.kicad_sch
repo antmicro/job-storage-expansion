@@ -7,7 +7,7 @@
   (title_block
     (title "Jetson Orin Baseboard Storage Expansion")
     (date "2023-06-06")
-    (rev "1.0.0")
+    (rev "1.1.0")
     (company "Antmicro Ltd")
   )
 
@@ -3998,7 +3998,7 @@
     (uuid e0406388-c7b8-4c9e-8d50-91d8ba774569)
   )
   (text "CRD_PWR is capable of supplying up to \n200 mA continuously to the attached \nmedia. Fault protection will shut off \nif current exceeds the 200 mA "
-    (at 227.838 95.25 0)
+    (at 194.31 72.39 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e1d9e5af-2fbc-4d2e-b486-382c741af2cb)
   )
