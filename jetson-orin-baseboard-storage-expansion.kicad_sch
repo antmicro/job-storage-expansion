@@ -2211,9 +2211,6 @@
     (path "/73e7794c-25e6-4d08-8054-2f71767fcb84/07e194ca-18d7-4954-914c-444b6344ac4d"
       (reference "#PWR032") (unit 1) (value "GND") (footprint "")
     )
-    (path "/cc2f3977-c157-49db-9d7c-b1273851c6f6/bcb57f41-e2ac-4fea-b0c8-3650b23589d2"
-      (reference "A1") (unit 1) (value "Bus_M.2_1-2199230-6") (footprint "antmicro-footprints:Bus_M.2_Socket_Key_M_TE_1-2199230-6")
-    )
     (path "/c2682da0-b57d-4de0-867f-878a3b270db3/2373bbd9-c869-4c08-9280-e69f10cfd0c2"
       (reference "C1") (unit 1) (value "C_1u_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
     )
@@ -2303,6 +2300,9 @@
     )
     (path "/73e7794c-25e6-4d08-8054-2f71767fcb84/87883b49-676e-406c-aee3-379dc924f4f2"
       (reference "J2") (unit 1) (value "MicroSD_1140084168") (footprint "antmicro-footprints:MicroSD_Amphenol_1140084168")
+    )
+    (path "/cc2f3977-c157-49db-9d7c-b1273851c6f6/bcbd0764-6c29-407a-8d92-c243acdbfc80"
+      (reference "J3") (unit 1) (value "Bus_M.2_1-2199230-6") (footprint "antmicro-footprints:Bus_M.2_Socket_Key_M_TE_1-2199230-6")
     )
     (path "/c2682da0-b57d-4de0-867f-878a3b270db3/7dc21210-1972-41c2-9535-392563978297"
       (reference "MP1") (unit 1) (value "PCB_Mount_Hole_2.9_5.5") (footprint "antmicro-footprints:mounting-hole-2.9mm-5.5mm")
