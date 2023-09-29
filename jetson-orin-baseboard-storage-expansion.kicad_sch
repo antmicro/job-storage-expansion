@@ -2310,9 +2310,6 @@
     (path "/c2682da0-b57d-4de0-867f-878a3b270db3/d91e2dc5-8b57-451d-8a6a-4858f0d56b46"
       (reference "MP2") (unit 1) (value "PCB_Mount_Hole_2.9_5.5") (footprint "antmicro-footprints:mounting-hole-2.9mm-5.5mm")
     )
-    (path "/c2682da0-b57d-4de0-867f-878a3b270db3/492197fc-dd4b-4602-a70d-c3a683826604"
-      (reference "N1") (unit 1) (value "oshw_logo") (footprint "antmicro-footprints:oshw-logo")
-    )
     (path "/cc2f3977-c157-49db-9d7c-b1273851c6f6/a62480d4-6a72-4522-bc9e-71c0a198e23d"
       (reference "R1") (unit 1) (value "R_4k7_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
