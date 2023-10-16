@@ -6,7 +6,7 @@
 
   (title_block
     (title "Jetson Orin Baseboard Storage Expansion")
-    (date "2023-06-06")
+    (date "2023-10-16")
     (rev "1.1.0")
     (company "Antmicro Ltd")
   )
@@ -979,7 +979,6 @@
       )
     )
   )
-
 
   (junction (at 137.16 48.26) (diameter 0) (color 0 0 0 0)
     (uuid 51a19091-4f7a-4da4-b689-7a76f44c4187)
