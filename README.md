@@ -7,14 +7,14 @@ Copyright (c) 2023 [Antmicro](https://www.antmicro.com)
 ## Overview
 
 This project contains open hardware design files for an expansion board compatible with Antmicro's [Jetson Orin Baseboard](https://github.com/antmicro/jetson-orin-baseboard).
-The expansion bard includes a MicroSD card slot and M.2 (key-M) slot allowing to connect additional storage solutions to the Jetson Orin Baseboard.
+The expansion board includes a MicroSD card slot and an M.2 (key-M) slot intended for connecting additional storage solutions to the Jetson Orin Baseboard.
 The M.2 slot supports 2280 and 2242 M.2 NVMe discs. 
 The design files were prepared in KiCad 6.x.
 
 ## Key features
 
 * Jetson Orin Baseboard expansion connector
-* Support for 2280 and 2242 discs sizes
+* Support for 2280 and 2242 disc sizes
 * M.2 key M
 * MicroSD card reader with USB 2.0 interface
 
