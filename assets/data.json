@@ -2,13 +2,14 @@
     "id": "jetson-orin-baseboard-storage-expansion",
     "componentIds": [
         "tdk-c1005x6s1a105k050bc",
-        "murata-grm155r61a475meaad",
         "yageo-cc0402mrx5r5bb106",
-        "avx-06031a330jat2a",
         "avx-0603yc104kaz2a",
         "murata-grm155r61h104ke14d",
+        "murata-grm155r61a475meaad",
+        "avx-06031a330jat2a",
         "kingbright-kp-1608zgc",
-        "samtec-erm8-040-05-0-l-dv-l-k-tr",
+        "wurth-elektronik-9774025151r",
+        "samtec-erm8-040-05-0-l-dv-k-tr",
         "amphenol-1140084168",
         "te-connectivity-1-2199230-6",
         "bourns-cr0402-fx-4701glf",
@@ -17,7 +18,8 @@
         "bourns-cr0402-fx-1202glf",
         "bourns-cr0402-fx-1004glf",
         "bourns-cr0603-j-000elf",
-        "microchip-technology-usb2642-ml"
+        "microchip-technology-usb2642-ml",
+        "abracon-abm8g-24-000mhz-18-d2y-t"
     ],
     "stackup": {
         "layers": [
