@@ -2066,7 +2066,7 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 73e7794c-25e6-4d08-8054-2f71767fcb84)
-    (property "Sheetname" "SD Card" (at 241.935 131.3684 0)
+    (property "Sheetname" "USB and SD Card" (at 241.935 131.3684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "sd.kicad_sch" (at 241.935 150.4446 0)
