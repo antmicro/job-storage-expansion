@@ -7,7 +7,7 @@
   (title_block
     (title "Jetson Orin Baseboard Storage Expansion")
     (date "2024-05-23")
-    (rev "1.1.1")
+    (rev "1.1.2")
     (company "Antmicro Ltd")
   )
 
