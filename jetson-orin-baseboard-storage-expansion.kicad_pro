@@ -56,7 +56,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_edge_clearance|169775000|85288302|0e86f71b-92b1-4cca-8bea-b4e12e1c2905|5c5f946e-52f9-47be-8aba-985c69973a05",
+        "silk_edge_clearance|169775000|94866302|0e86f71b-92b1-4cca-8bea-b4e12e1c2905|f5915e26-85eb-4ef3-9727-4c5de8e1f4e6"
+      ],
       "meta": {
         "version": 2
       },
@@ -470,7 +473,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "85Ohm-diff_PCIE",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(255, 239, 0)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.187,
         "via_diameter": 0.6,
@@ -487,7 +490,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "90Ohm-diff_USB2.0",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(47, 0, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.6,
@@ -552,22 +555,6 @@
       {
         "netclass": "90Ohm-diff_USB2.0",
         "pattern": "USB1_D_P"
-      },
-      {
-        "netclass": "90Ohm-diff_USB2.0",
-        "pattern": "*USBDN_D2_N"
-      },
-      {
-        "netclass": "90Ohm-diff_USB2.0",
-        "pattern": "*USBDN_D2_P"
-      },
-      {
-        "netclass": "90Ohm-diff_USB2.0",
-        "pattern": "*USBDN_D3_N"
-      },
-      {
-        "netclass": "90Ohm-diff_USB2.0",
-        "pattern": "*USBDN_D3_P"
       }
     ]
   },
