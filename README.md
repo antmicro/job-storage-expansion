@@ -1,6 +1,6 @@
 # Jetson Orin Baseboard Storage Expansion Board
 
-Copyright (c) 2023 [Antmicro](https://www.antmicro.com)
+Copyright (c) 2023-2024 [Antmicro](https://www.antmicro.com)
 
 ![](img/jetson-orin-baseboard-storage-expansion.png)
 
