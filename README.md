@@ -1,6 +1,6 @@
 # Jetson Orin Baseboard Storage Expansion Board
 
-Copyright (c) 2023-2024 [Antmicro](https://www.antmicro.com)
+Copyright (c) 2023-2025 [Antmicro](https://www.antmicro.com)
 
 ![](img/jetson-orin-baseboard-storage-expansion.png)
 
@@ -10,7 +10,7 @@ This project contains open hardware design files for an expansion board compatib
 The expansion board includes a MicroSD card slot and an M.2 (key-M) slot intended for connecting additional storage solutions to the Jetson Orin Baseboard.
 It also includes an additional USB-C and USB type A connectors.
 The M.2 slot supports 2280 and 2242 M.2 NVMe discs. 
-The design files were prepared in KiCad 7.x.
+The design files were prepared in KiCad 9.x.
 
 ## Key features
 
@@ -22,11 +22,10 @@ The design files were prepared in KiCad 7.x.
 
 ## Project structure 
 
-The main directory contains KiCad PCB project files, a LICENSE and a README.
+The main directory contains KiCad PCB project files, LICENSE, and README.
 The remaining files are stored in the following directories: 
  
 * `img` - contains graphics for this README
-* `assets` - contains visual assets for showcasing this design on [Open Hardware Portal](https://openhardware.antmicro.com).
 
 ## Licensing
 
